@@ -37,13 +37,13 @@ Supporting libraries (e.g. [FastAPI](https://fastapi.tiangolo.com), [Streamlit](
 
 In Python, you can install them with:
 
-```console
+```bash
 $ uvx library-skills
 ```
 
 In JavaScript/TypeScript, you can install them with:
 
-```console
+```bash
 $ npx library-skills
 ```
 
